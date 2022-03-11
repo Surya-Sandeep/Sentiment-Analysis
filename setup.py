@@ -9,7 +9,7 @@ setuptools.setup(
 	include_package_data=True,
 	version = '0.1.3',
 	author = 'Sandeep',
-	author_email = 'suryasandeep333@gmailk.com',
+	author_email = 'suryasandeep333@gmail.com',
 	description = 'This is preprocessing package',
 	long_description = long_description,
 	long_description_content_type = 'text/markdown',
